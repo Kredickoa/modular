@@ -2,9 +2,9 @@
 
 An architectural concept website presenting a compact modular home. Built as a frontend portfolio project to explore product presentation, motion and visual storytelling.
 
-[![Watch the demo](demo/preview.jpg)](https://github.com/Kredickoa/modular/raw/refs/heads/main/demo/demo.mp4)
+## Demo
 
-[Watch the demo video](https://github.com/Kredickoa/modular/raw/refs/heads/main/demo/demo.mp4)
+https://github.com/user-attachments/assets/f24251a9-e8f2-4111-a807-7f78dbcf524a
 
 ## Highlights
 
